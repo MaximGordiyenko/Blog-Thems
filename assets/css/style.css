@@ -156,9 +156,8 @@ div.photos {
 }
 
 .photos h5, .photos p { /*block element*/
-    display: inline-block;
+    display: flex;
     margin: 5px 35% 0 0;
-
 }
 
 .photos div {
