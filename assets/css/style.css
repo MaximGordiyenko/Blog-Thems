@@ -203,3 +203,14 @@ div.tags {
     font-size: 10px;
 }
 
+.tags span:nth-child(4){
+    text-transform: uppercase;
+}
+
+.tags span:nth-child(5){
+    text-transform: uppercase;
+}
+
+.tags span:nth-child(6){
+    text-transform: uppercase;
+}
